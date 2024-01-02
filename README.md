@@ -6,7 +6,7 @@ Systems Analysis and Development Student
 
 I have a keen interest in technology and am currently pursuing a degree in Analysis and Systems Development (IFSul). As I navigate through the world of coding and problem-solving, I find joy in exploring the ever-evolving tech landscape. I'm eager to connect with fellow enthusiasts, learn, and contribute to the exciting field of development.
 
-* 🌍  I'm based in Novo Hamburgo, RS, Brasil
+* 🌍  I'm based in Novo Hamburgo, RS - Brazil
 * 🧠  I'm learning Algorithms and Programming Logic and studying Java OOP (object-oriented programming)
 
 ### Skills
