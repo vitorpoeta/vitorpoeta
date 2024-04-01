@@ -1,13 +1,10 @@
-Hi 👋 My name is Vitor Poeta
-============================
+# Olá! 👋 Meu nome é Vitor Poeta
 
-Systems Analysis and Development Student
-----------------------------------------
+## Estudante de Análise e Desenvolvimento de Sistemas
 
-I have a keen interest in technology and am currently pursuing a degree in Analysis and Systems Development (IFSul). As I navigate through the world of coding and problem-solving, I find joy in exploring the ever-evolving tech landscape. I'm eager to connect with fellow enthusiasts, learn, and contribute to the exciting field of development.
+Tenho um grande interesse em tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSul. Conforme navego pelo mundo da programação e resolução de problemas, encontro alegria em explorar o cenário tecnológico em constante evolução. Estou ansioso para me conectar com outros entusiastas, aprender e contribuir para o emocionante campo do desenvolvimento.
 
-* 🌍  I'm based in Novo Hamburgo, RS - Brazil
-* 🧠  I'm learning Algorithms and Programming Logic and studying Java OOP (object-oriented programming)
+- 🧠 Estou aprendendo Algoritmos e Lógica de Programação e estudando Java POO (programação orientada a objetos)
 
 ### Skills
 
