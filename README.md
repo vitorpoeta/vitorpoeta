@@ -23,7 +23,7 @@ I have a keen interest in technology and am currently pursuing a degree in Analy
 
 ![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vitorpoeta&theme=algolia&show_icons=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorpoeta&theme=algolia&show)](https://github.com/vitorpoeta/github-readme-stats)
+
 
 
 
