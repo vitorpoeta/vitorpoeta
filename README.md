@@ -2,9 +2,11 @@
 
 ## Estudante de Análise e Desenvolvimento de Sistemas
 
-Tenho um grande interesse em tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSul. Conforme navego pelo mundo da programação e resolução de problemas, encontro alegria em explorar o cenário tecnológico em constante evolução. Estou ansioso para me conectar com outros entusiastas, aprender e contribuir para o emocionante campo do desenvolvimento.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal Sul-Rio-Grandense (IFSul). Tenho um grande interesse em tecnologia e atualmente estou focado em me aprofundar em Programação Orientada a Objetos (POO) e, futuramente, explorar frameworks como o Spring Boot e o ecossistema Spring. Além disso, tenho conhecimentos sólidos em Lógica de Programação e sou monitor de Algoritmos com Java na minha instituição. Estou ansioso para explorar o cenário tecnológico em constante evolução e estou entusiasmado para me conectar com outros entusiastas, aprender e contribuir para o campo do desenvolvimento.
 
-- 🧠 Estou aprendendo Algoritmos e Lógica de Programação e estudando Java POO (programação orientada a objetos)
+
+
+- 🧠 Estudando Java POO (programação orientada a objetos)
 
 ### Skills
 
