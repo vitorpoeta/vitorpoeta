@@ -22,6 +22,5 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 ![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vitorpoeta&theme=dark&show_icons=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorpoeta&theme=dark&langs_count=5&range=last_7_days)](https://github.com/vitorpoeta/github-readme-stats)
 
 
