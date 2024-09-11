@@ -7,8 +7,11 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 ## Estou estudando no momento 
 
--  Java POO (programação orientada a objetos)
+-  Java (programação orientada a objetos e estrutura de dados)
 -  HTML, CSS & JavaScript
+-  SQL (MySQL e PostgreSQL)  
+
+
 
 ### Skills
 
