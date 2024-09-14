@@ -9,7 +9,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 -  Java (programação orientada a objetos e estrutura de dados)
 -  HTML, CSS & JavaScript
--  SQL (MySQL e PostgreSQL)  
+-  SQL (MySQL)
 
 
 
