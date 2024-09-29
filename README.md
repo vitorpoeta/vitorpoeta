@@ -7,8 +7,8 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 ## Estou estudando no momento 
 
--  Java (focando em estrutura de dados no momento para exercícios do leetcode, beecrowd, etc.)
--  HTML, CSS & JavaScript (focando em javascript, para depois partir para frameworks como react/angular)
+-  Java
+-  HTML, CSS & JavaScript (focando em javascript, para depois partir para frameworks como react/angular/vue.js)
 -  SQL (MySQL)
 
 
