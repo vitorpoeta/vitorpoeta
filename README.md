@@ -1,6 +1,6 @@
 # Olá! 👋 Meu nome é Vitor Poeta
 
-## Futuro Desenvolvedor Back-end/Full Stack
+## Futuro Desenvolvedor Full Stack
 
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal Sul-Rio-Grandense (IFSul). Tenho um grande interesse em tecnologia e atualmente estou focado em tópicos avançados de java (collections, streams e threads) e, futuramente, explorar frameworks como o Spring Boot e o ecossistema Spring. Além disso, tenho conhecimentos sólidos em Lógica de Programação e sou monitor de Algoritmos com Java na minha instituição. Estou ansioso para explorar o cenário tecnológico em constante evolução e estou entusiasmado para me conectar com outros entusiastas, aprender e contribuir para o campo do desenvolvimento.
 
