@@ -7,7 +7,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 ## Estou estudando no momento 
 
--  Java
+-  Java e futuramente estudarei o framework Spring
 -  HTML, CSS & JavaScript (focando em javascript, para depois partir para frameworks como react/angular/vue.js)
 -  SQL (MySQL)
 
