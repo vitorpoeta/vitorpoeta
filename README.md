@@ -2,7 +2,7 @@
 
 ## Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Sou estudante de ADS no Instituto Federal Sul-Rio-Grandense (IFSul). Tenho um grande interesse em tecnologia e atualmente estou focado em tópicos avançados de java (collections, streams e threads), além de explorar frameworks como o Spring Boot e o ecossistema Spring. Além disso, tenho conhecimentos sólidos em Lógica de Programação e onde fui monitor de Algoritmos com Java na minha instituição e estagiei durante um semestre na área de sistemas ERP onde pude trabalhar com COBOL/Java e conhecer metodologias ágeis. No momento, estou buscando um estágio no qual possa colaborar, aprender e crescer como profissional, contribuindo com soluções que agreguem valor ao time e à empresa.
+Olá! Sou estudante de ADS no Instituto Federal Sul-Rio-Grandense (IFSul). Tenho um grande interesse em tecnologia e atualmente estou focado em tópicos avançados de java (collections, streams e threads), além de explorar frameworks como o Spring Boot e o ecossistema Spring. Além disso, tenho conhecimentos sólidos em Lógica de Programação e fui monitor de Algoritmos com Java na minha instituição. Estagiei durante um semestre na área de sistemas ERP onde pude trabalhar com COBOL/Java e conhecer metodologias ágeis. No momento, estou buscando um estágio no qual possa colaborar, aprender e crescer como profissional, contribuindo com soluções que agreguem valor ao time e à empresa.
 
 
 ## Estou estudando no momento 
