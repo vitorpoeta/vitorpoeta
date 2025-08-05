@@ -1,5 +1,5 @@
 # Hello! 👋 My name is Vitor Poeta  
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vitorpoeta/README.en.md)  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/vitorpoeta/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vitorpoeta/README.en.md)  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/vitorpoeta/vitorpoeta/blob/main/README.md)
 
 ## Back-end Developer
 
