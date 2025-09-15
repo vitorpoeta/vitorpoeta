@@ -15,7 +15,7 @@ Olá! Sou estudante de ADS no Instituto Federal Sul-Rio-Grandense (IFSul). Atual
 ## 🚀 Minhas Skills
 
 <!-- Tecnologias com suporte do skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,postman,git,docker" />
 
 ### Socials
 
