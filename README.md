@@ -4,9 +4,7 @@
 
 ## 💼 Quality Assurance Intern | Backend Developer (Java)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFSul e tenho uma base sólida em Lógica de Programação. Atuei como monitor de Algoritmos com Java, auxiliando colegas com estruturas de dados e raciocínio computacional.
-
-Tenho experiência prévia como estagiário na área de desenvolvimento, trabalhando com sistemas ERP, realizando manutenção em sistema legado com isCOBOL.
+Graduando em Análise e Desenvolvimento de Sistemas pelo IFSul. Na faculdade, tive a oportunidade de atuar como monitor de Algoritmos em Java, apoiando colegas no entendimento de estruturas de dados e lógica. Profissionalmente, iniciei minha trajetória como estagiário em desenvolvimento, onde colaborei na manutenção de sistemas ERP legados utilizando isCOBOL.
 
 Atualmente, estou no **Programa Vem Ser da DBC Company**, iniciando minha jornada na trilha de **Quality Assurance (QA)**. 
 
