@@ -6,20 +6,7 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas pelo IFSul. Na faculdade, tive a oportunidade de atuar como monitor de Algoritmos em Java, apoiando colegas no entendimento de estruturas de dados e lógica. Profissionalmente, iniciei minha trajetória como estagiário em desenvolvimento, onde colaborei na manutenção de sistemas ERP legados utilizando isCOBOL.
 
-Atualmente, estou no **Programa Vem Ser da DBC Company**, iniciando minha jornada na trilha de **Quality Assurance (QA)**. 
-
-Durante a trilha, irei estudar conteúdos como:
-
-- Java e Orientação a Objetos  
-- HTML, CSS e JavaScript  
-- Banco de Dados Oracle  
-- Fundamentos de Testes Ágeis  
-- Teste de API (Postman e REST Assured)  
-- Teste de UI (Selenium WebDriver e Cypress)  
-- JavaScript para automação  
-- Cultura DevOps e CI/CD  
-- Testes de Performance  
-
+#### Atualmente, estou no **Programa Vem Ser da DBC Company**, iniciando minha jornada na trilha de **Quality Assurance (QA)**. 
 Estou em constante evolução e focado em aprender QA de forma sólida e prática.
 
 ---
